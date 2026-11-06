@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pojokdata.struk",
+        "sha256_cert_fingerprints": ["39:5A:AD:31:5E:73:5C:43:9D:69:6E:B0:28:D5:6B:28:27:7F:E4:08:B4:15:7C:2A:E4:AE:AB:44:28:24:1B:BD"]
+      }
+    }]
